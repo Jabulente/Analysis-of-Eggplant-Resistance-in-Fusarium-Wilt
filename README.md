@@ -70,3 +70,19 @@ This analysis follows a structured pipeline using Python for data cleaning, anal
 
 ## Project Structure
 
+
+## Author
+
+This analysis was performed by **Jabulente**, a passionate and dedicated data analyst with a strong commitment to using data to drive meaningful insights and solutions. For inquiries, collaborations, or further discussions, please feel free to reach out via.  
+
+
+<div align="center">  
+    
+[![GitHub](https://img.shields.io/badge/GitHub-Jabulente-black?logo=github)](https://github.com/Jabulente)  |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jabulente-blue?logo=linkedin)](https://linkedin.com/in/jabulente-208019349)  |  [![Email](https://img.shields.io/badge/Email-jabulente@hotmail.com-red?logo=gmail)](mailto:Jabulente@hotmail.com)  
+
+</div>
+
+
+## License
+This project is licensed under the MIT License. Feel free to use, share, and modify with attribution.
+
