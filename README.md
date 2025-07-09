@@ -84,6 +84,31 @@ Analysis-of-Eggplant-Resistance-in-Fusarium-Wilt/
 └── __init__.py
 ```
 
+## 🚀 Usage
+
+Follow these steps to get started with the project:
+
+### 1.  Clone the Repository
+
+```bash
+git clone https://github.com/Jabulente/Analysis-of-Eggplant-Resistance-in-Fusarium-Wilt.git
+cd Analysis-of-Eggplant-Resistance-in-Fusarium-Wilt
+```
+
+### 2.  Set Up the Environment
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3.  Run the Analysis
+
+Open the main notebook to explore the analysis:
+
+```bash
+jupyter notebook notebooks/Analysis of Eggplant Resistance in Fusarium Wilt.ipynb
+```
+
 ## Author
 
 This analysis was performed by **Jabulente**, a passionate and dedicated data analyst with a strong commitment to using data to drive meaningful insights and solutions. For inquiries, collaborations, or further discussions, please feel free to reach out via.  
@@ -94,7 +119,6 @@ This analysis was performed by **Jabulente**, a passionate and dedicated data an
 [![GitHub](https://img.shields.io/badge/GitHub-Jabulente-black?logo=github)](https://github.com/Jabulente)  |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jabulente-blue?logo=linkedin)](https://linkedin.com/in/jabulente-208019349)  |  [![Email](https://img.shields.io/badge/Email-jabulente@hotmail.com-red?logo=gmail)](mailto:Jabulente@hotmail.com)  
 
 </div>
-
 
 ## License
 This project is licensed under the MIT License. Feel free to use, share, and modify with attribution.
