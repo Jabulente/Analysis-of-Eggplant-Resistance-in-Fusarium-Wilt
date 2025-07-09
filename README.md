@@ -45,7 +45,7 @@ This analysis follows a structured pipeline using Python for data cleaning, anal
 - Used **Tukey’s Honest Significant Difference (HSD)** for pairwise comparisons.
 - Constructed **Compact Letter Displays (CLD)** to summarize statistically similar groups.
 
-### 4️⃣ Interpretation & Recommendation
+### 4. Interpretation & Recommendation
 - Ranked varieties based on resistance and agronomic performance.
 - Highlighted genotypes with superior resistance and survival.
 - Suggested candidates for further breeding and field validation.
@@ -77,6 +77,7 @@ Analysis-of-Eggplant-Resistance-in-Fusarium-Wilt/
 ├── 📁 Notebooks/             # Jupyter Notebooks for EDA, stats, etc.
 ├── 📁 Outputs/               # All outputs from analysis
 ├── 📁 Scripts/               # All reusable code/scripts
+├── Analysis of Eggplant Resistance in Fusarium Wilt.ipynb
 ├── LICENSE
 ├── README.md
 └── requirements.txt
