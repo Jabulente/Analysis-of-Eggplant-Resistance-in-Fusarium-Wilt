@@ -1,4 +1,4 @@
-<h1 align='center'> Analysis of Eggplant Resistance in Fusarium Wilt Experimental Data</h1>
+<h1 align='center'> Analysis of Eggplant Resistance in Fusarium Wilt | Experimental Data Analysis</h1>
 
 This project presents a detailed data-driven analysis of eggplant genotypes evaluated for resistance against **Fusarium wilt**, a major fungal disease caused by *Fusarium oxysporum*. Using experimental data and robust statistical methods, the project identifies patterns in resistance, evaluates plant performance under disease stress, and supports decision-making in breeding and varietal selection programs.
 
@@ -69,7 +69,19 @@ This analysis follows a structured pipeline using Python for data cleaning, anal
 
 
 ## Project Structure
-
+```
+Analysis-of-Eggplant-Resistance-in-Fusarium-Wilt/
+│
+├── 📁 Datasets/              # Raw and/or cleaned data
+├── 📁 Documents/             # Project background, survey forms, literature, references
+├── 📁 Notebooks/             # Jupyter Notebooks for EDA, stats, etc.
+├── 📁 Outputs/               # All outputs from analysis
+├── 📁 Scripts/               # All reusable code/scripts
+├── LICENSE
+├── README.md
+└── requirements.txt
+└── __init__.py
+```
 
 ## Author
 
